@@ -242,7 +242,7 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+  //padding-bottom: 2em;
   border-bottom: 1px solid $lightGray;
 }
 
@@ -287,3 +287,15 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
+
+.gray {
+  color: $gray;
+}
+
+.blue {
+  color: $blue;
+}
+
+.center-it {
+  text-align: center;
+}
