@@ -4,11 +4,11 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-    <article class="center-it post">
+    <article class="post">
 
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <span class="gray">{{ post.date | date: "%e %b %Y" }} - </span>
-        <span class="blue">{{ post.title }}</span>
+        <span class="post-title">{{ post.title }}</span>
+        <span class="post-date">{{ post.date | date: "%e %b %Y" }}</span>
       </a>
 
     </article>

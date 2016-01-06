@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+  background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -224,7 +224,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    // margin-left: 20px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -242,8 +242,8 @@ nav {
 //
 
 .posts > .post {
-  //padding-bottom: 2em;
-  border-bottom: 1px solid $lightGray;
+  padding-bottom: 0.75em;
+  // border-bottom: 1px solid $lightGray;
 }
 
 .posts > .post:last-child {
@@ -271,31 +271,20 @@ nav {
   }
 }
 
-.wrapper-footer {
-  margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
-}
-
-footer {
-  padding: 20px 0;
-  text-align: center;
-}
-
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
 
-.gray {
-  color: $gray;
-}
-
-.blue {
+.post-title {
   color: $blue;
 }
 
-.center-it {
-  text-align: center;
+.post-date {
+  color: $gray;
+  float: right;
+}
+
+div#main.container {
+  margin-bottom: 87px;
 }
