@@ -288,3 +288,7 @@ nav {
 div#main.container {
   margin-bottom: 87px;
 }
+
+#main > article > div.entry > p {
+  text-align: justify;
+}
