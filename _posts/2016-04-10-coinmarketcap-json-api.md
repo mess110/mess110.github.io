@@ -18,7 +18,7 @@ on [features requested by the users](https://www.reddit.com/r/coinmarketcapjson/
 It is extremely satisfying [to see other people use the API](https://github.com/search?q=coinmarketcap.northpole.ro&type=Code&utf8=%E2%9C%93).
 
 <script src="http://coinmarketcap.northpole.ro/full_report.js" type="text/javascript" charset="utf-8"></script>
-<script src="http://canvasjs.com/assets/script/canvasjs.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/canvasjs/1.7.0/canvasjs.min.js" type="text/javascript" charset="utf-8"></script>
 <script type="text/javascript">
   window.onload = function () {
     var dataPoints = []
