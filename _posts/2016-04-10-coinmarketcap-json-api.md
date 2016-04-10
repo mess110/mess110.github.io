@@ -15,6 +15,13 @@ At the time of writing, the API served over **336 million** requests.
 The API is growing because of its simplicity and the fact that I worked only
 on [features requested by the users](https://www.reddit.com/r/coinmarketcapjson/).
 
+As of April 2016, the API also provides [daily snapshots](http://coinmarketcap.northpole.ro/api/v5/history/) (a much requested feature).
+
+Example API usage:
+
+[http://coinmarketcap.northpole.ro/api/v5/BTC.json](http://coinmarketcap.northpole.ro/api/v5/BTC.json)
+[http://coinmarketcap.northpole.ro/api/v5/history/BTC_2016.json](http://coinmarketcap.northpole.ro/api/v5/history/BTC_2016.json)
+
 It is extremely satisfying [to see other people use the API](https://github.com/search?q=coinmarketcap.northpole.ro&type=Code&utf8=%E2%9C%93).
 
 <script type="text/javascript" charset="utf-8">
