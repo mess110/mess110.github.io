@@ -292,3 +292,18 @@ div#main.container {
 #main > article > div.entry > p {
   text-align: justify;
 }
+
+table {
+  border: 1px solid black;
+}
+
+td, th {
+  padding: 10px;
+  border: 1px solid #eee;
+  text-align: center;
+}
+
+th {
+  font-weight: bold;
+  background-color: #eee;
+}
