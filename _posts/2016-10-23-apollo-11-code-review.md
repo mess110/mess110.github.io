@@ -7,7 +7,7 @@ Stardate 23018.1 or 21st of July 1969, mankind takes its first steps on the moon
 
 <center>
   <video width="320" height="240" controls>
-    <source src="/videos/Apollo_11_Landing_-_first_steps_on_the_moon.ogv" type="video/ogg">
+    <source src="/blog/videos/apollo/Apollo_11_Landing_-_first_steps_on_the_moon.ogv" type="video/ogg">
   </video>
 </center>
 
@@ -16,7 +16,7 @@ In the picture below, she is standing next to the printed source code of the fli
 Over 400 people worked on Apollo's software which helped people safetly land on the moon.
 
 <center>
-  <img src="/images/apollo/Margaret_Hamilton.gif" />
+  <img src="/blog/images/apollo/Margaret_Hamilton.gif" />
 </center>
 
 You can bet your sweet ass they followed good software development practices. As a bare minimum, we know the software was
@@ -31,19 +31,19 @@ There are no files without comments, 31.443 of the lines contain a comment and t
 #### The software was submitted by 1 person and approved by 6 other people.
 
 <center>
-  <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc"><img src="/images/apollo/submitted.png" /></a>
+  <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Comanche055/CONTRACT_AND_APPROVALS.agc"><img src="/blog/images/apollo/submitted.png" /></a>
 </center>
 
 #### Temporary does not exist in programming. It is a myth! Hope is not a strategy.
 
 <center>
-  <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179"><img src="/images/apollo/temporary.png" /></a>
+  <a href="https://github.com/chrislgarry/Apollo-11/blob/master/Luminary099/LUNAR_LANDING_GUIDANCE_EQUATIONS.agc#L179"><img src="/blog/images/apollo/temporary.png" /></a>
 </center>
 
 #### Respect your users, but don't trust them.
 
 <center>
-  <a href="https://github.com/chrislgarry/Apollo-11/blob/9e0ef60171e359d5eb7056ca2cfbce0422b26761/Luminary099/THE_LUNAR_LANDING.agc#L245-L249"><img src="/images/apollo/users.png" /></a>
+  <a href="https://github.com/chrislgarry/Apollo-11/blob/9e0ef60171e359d5eb7056ca2cfbce0422b26761/Luminary099/THE_LUNAR_LANDING.agc#L245-L249"><img src="/blog/images/apollo/users.png" /></a>
 </center>
 
 #### Humor is essential for landing people on the moon.
