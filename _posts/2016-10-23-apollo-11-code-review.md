@@ -74,10 +74,8 @@ There are no files without comments, 31.443 of the lines contain a comment and t
 
 * [https://en.wikipedia.org/wiki/Apollo_11](https://en.wikipedia.org/wiki/Apollo_11)
 * [http://www.htius.com/Articles/r12ham.pdf](http://www.htius.com/Articles/r12ham.pdf)
-* [https://github.com/chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
 * [https://www.youtube.com/watch?v=hyhI85Rd1kI](https://www.youtube.com/watch?v=hyhI85Rd1kI)
-* [http://www.ibiblio.org/apollo/assembly_language_manual.html](http://www.ibiblio.org/apollo/assembly_language_manual.html)
 * [/r/ProgrammerHumor](https://www.reddit.com/r/ProgrammerHumor/comments/4ro9v9/apollo_11_guidance_computer_source_code_now_on/)
-* [https://en.wikiquote.org/wiki/Neil_Armstrong](https://en.wikiquote.org/wiki/Neil_Armstrong)
 * [https://en.wikipedia.org/wiki/File:Margaret_Hamilton.gif](https://en.wikipedia.org/wiki/File:Margaret_Hamilton.gif)
+* [https://en.wikiquote.org/wiki/Neil_Armstrong](https://en.wikiquote.org/wiki/Neil_Armstrong)
 * [http://www.amazingwomeninhistory.com/](http://www.amazingwomeninhistory.com/margaret-hamilton-the-woman-behind-the-moon-landing/)
