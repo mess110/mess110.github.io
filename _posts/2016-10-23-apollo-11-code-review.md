@@ -3,7 +3,7 @@ layout: post
 title: Apollo 11 - Code Review
 ---
 
-Stardate 23018.1 or 21st of July 1969, mankind takes its first steps on the moon.
+Stardate 23018.1 or 21st of July 1969, mankind takes its first steps on the Moon.
 
 <center>
   <video width="320" height="240" controls>
