@@ -4,6 +4,10 @@
 
 https://mess110.github.io/
 
+```
+jekyll server
+```
+
 # built with
 
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
