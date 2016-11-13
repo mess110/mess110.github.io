@@ -3,6 +3,7 @@ layout: recipe
 keywords:
   - altele
 title: Piure de cartofi
+fără-carne: true
 ingrediente:
   - cartofi
   - smântână

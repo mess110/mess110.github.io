@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - sosuri
+fără-carne: true
 title: Sos ardei iute
 ingrediente:
   - ardei gras

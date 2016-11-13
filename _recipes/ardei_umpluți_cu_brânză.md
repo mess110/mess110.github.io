@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - cuptor
+fără-carne: true
 title: Ardei umpluți cu brânză
 ingrediente:
   - brânză dulce de vacă 2/3 și brânză sărată de oaie 1/3

@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - feluri
+fără-carne: true
 title: Feluri - brânzaturi românești
 ---
 

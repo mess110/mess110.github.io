@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - sosuri
+fără-carne: true
 title: Zahăr vanilat
 ingrediente:
   - zahăr pudră

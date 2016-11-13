@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - sosuri
+fără-carne: true
 title: Sos mujdei de usturoi
 ingrediente:
   - usturoi (românesc, anti-dracula)

@@ -3,6 +3,7 @@ layout: recipe
 keywords:
   - altele
 title: Piure de cartofi filipinez
+fără-carne: true
 ingrediente:
   - cartofi
   - ceapă

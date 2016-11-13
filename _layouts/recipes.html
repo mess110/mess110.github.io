@@ -61,5 +61,13 @@ layout: cookz
         {% endfor %}
       </ul>
     </div>
+
+    <div class="meta-menu">
+        <p>
+          {{ site.recipes.size }} rețete
+          <br />
+          {{ site.recipes | where: "fără-carne", true | size }} rețete fără carne
+        </p>
+    </div>
   </div>
 </article>

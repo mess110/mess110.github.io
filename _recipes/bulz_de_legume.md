@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - altele
+fără-carne: true
 title: Bulz de legume
 ingrediente:
   - cartof ~5

@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - altele
+fără-carne: true
 title: Spanac scăzut
 ingrediente:
   - spanac (0.5kg spanac)

@@ -3,6 +3,7 @@ layout: recipe
 keywords:
   - sosuri
 title: Sos trâmbița piticului
+fără-carne: true
 ingrediente:
   - ciuperci uscate trambita piticului
   - otet balsamic

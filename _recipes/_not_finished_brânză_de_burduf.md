@@ -1,5 +1,6 @@
 ---
 layout: recipe
+fără-carne: true
 keywords:
   - altele
 ---

@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - sosuri
+fără-carne: true
 title: Hrean ras
 ingrediente:
   - hrean

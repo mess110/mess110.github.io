@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - altele
+fără-carne: true
 title: Ardei copt cu salată de vinete
 ingrediente:
   - ardei capia/gras

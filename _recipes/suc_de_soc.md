@@ -3,6 +3,7 @@ layout: recipe
 keywords:
   - desert
 title: Suc de soc
+fără-carne: true
 ingrediente:
   - flori de soc (10-12)
   - lămâie (1-2 lămâi)

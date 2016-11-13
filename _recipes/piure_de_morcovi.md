@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - altele
+fără-carne: true
 title: Piure de morcovi
 ingrediente:
   - morcovi

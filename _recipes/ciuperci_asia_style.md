@@ -2,7 +2,8 @@
 layout: recipe
 keywords:
   - altele
-title: Ciuperci Asia Style
+fără-carne: true
+title: Ciuperci asia style
 ingrediente:
   - ciuperci (king oyster, sau oricare altele)
   - soia

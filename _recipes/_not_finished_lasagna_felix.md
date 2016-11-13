@@ -1,5 +1,5 @@
 ---
 layout: recipe
 keywords:
-  - altele
+  - cuptor
 ---

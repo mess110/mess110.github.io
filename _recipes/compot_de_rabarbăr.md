@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - desert
+fără-carne: true
 title: Compot de rabarbăr
 ingrediente:
   - 1kg rabarbăr

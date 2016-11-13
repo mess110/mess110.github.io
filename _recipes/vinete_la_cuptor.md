@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - cuptor
+fără-carne: true
 title: Vinete la cuptor
 ingrediente:
   - vinete

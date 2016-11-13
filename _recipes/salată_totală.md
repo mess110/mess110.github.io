@@ -3,6 +3,7 @@ layout: recipe
 keywords:
   - altele
 title: Salată totală
+fără-carne: true
 ingrediente:
   - Salată verde - tăiată
   - Frunze de ridichi (roșii) tăiate
