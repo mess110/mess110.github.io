@@ -2,7 +2,7 @@
 layout: recipe
 keywords:
   - mic-dejun
-title: Papară Tărănească
+title: Papară tărănească
 ingrediente:
   - ouă (de casă)
   - slănină

@@ -11,7 +11,7 @@ ingrediente:
   - unt
   - catei usturoi
   - patrunjel/leurda
-  - bacon (optional)
+  - bacon (opțional)
 mod_de_preparare:
   - trambita piticului se taie marunt (eu folosesc o foarfeca) si se lasa la hidratat in smantana sau otet balsamic cu putina apa (1 ora)
   - in tigaie se pune untul la topit + usturoiul taiat marunt (5 min)

@@ -2,7 +2,7 @@
 layout: recipe
 keywords:
   - cuptor
-title: Nuremberg Thai
+title: Nürnberg Thai
 ingrediente:
   - cremă lapte de nucă de cocos
   - bambus

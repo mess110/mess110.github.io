@@ -3,14 +3,14 @@ layout: recipe
 keywords:
   - sosuri
 fără-carne: true
-title: Sos mujdei de usturoi
+title: Mujdei de usturoi
 ingrediente:
   - usturoi (românesc, anti-dracula)
   - sare granulată
   - lămâie
   - ulei
   - pătrunjel
-mod_de_prepare:
+mod_de_preparare:
   - curătăm usturoiul și îl pisăm împreuna cu sarea granulată
   - adăugăm treptat ulei, amestecăm
   - adăugăm treptat zeama de lămâie, amestecăm

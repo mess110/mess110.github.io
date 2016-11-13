@@ -2,7 +2,7 @@
 layout: recipe
 keywords:
   - altele
-title: Avocado umplu cu creveti
+title: Avocado umplut cu creveți
 ingrediente:
   - avocado
   - creveți
