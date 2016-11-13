@@ -1,0 +1,75 @@
+---
+layout: cookz
+---
+
+{% if page.ingrediente %}
+    <h4>Ingrediente</h4>
+
+    <ul>
+      {% for ingredient in page.ingrediente %}
+        <li>{{ ingredient }}</li>
+      {% endfor %}
+    </ul>
+{% endif %}
+
+{% if page.mod_de_preparare %}
+  <h4>Mod de preparare </h4>
+  
+  <ul>
+    {% for pas in page.mod_de_preparare %}
+      <li>{{ pas }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.optional %}
+  <h4>Opțional</h4>
+  
+  <ul>
+    {% for pas in page.optional %}
+      <li>{{ pas }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.poze %}
+  <h4>Poze</h4>
+  
+  <ul>
+    {% for poza in page.poze %}
+      <li>{{ poza }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.trivia %}
+  <h4>Trivia</h4>
+  
+    <ul>
+      {% for element in page.trivia %}
+        <li>{{ element }}</li>
+      {% endfor %}
+    </ul>
+{% endif %}
+
+{% if page.hints %}
+  <h4>Hint</h4>
+
+  <ul>
+    {% for hint in page.hints %}
+      <li>{{ hint }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{% if page.keywords %}
+  <h4>Keywords</h4>
+
+  <ul>
+    {% for keyword in page.keywords %}
+      <li>{{ keyword }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}
+
+{{ content }}
