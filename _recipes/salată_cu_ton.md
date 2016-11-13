@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Salată cu ton
 ingrediente:
   - ton (în ulei)

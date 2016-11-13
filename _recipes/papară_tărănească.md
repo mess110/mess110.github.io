@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - mic-dejun
 title: Papară Tărănească
 ingrediente:
   - ouă (de casă)

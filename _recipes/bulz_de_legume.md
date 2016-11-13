@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Bulz de legume
 ingrediente:
   - cartof ~5

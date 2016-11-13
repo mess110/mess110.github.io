@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Calamari în vin alb
 ingrediente:
   - calamari

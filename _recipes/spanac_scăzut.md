@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Spanac scăzut
 ingrediente:
   - spanac (0.5kg spanac)

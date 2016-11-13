@@ -1,5 +1,8 @@
 ---
 layout: recipe
+keywords:
+  - supă
+  - ciorbă
 title: Ciorbă de pește deltă
 ingrediente:
   - 2 cepe normale sau 1 mare

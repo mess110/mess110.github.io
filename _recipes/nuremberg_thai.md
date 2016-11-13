@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Nuremberg Thai
 ingrediente:
   - cremă lapte de nucă de cocos

@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - sosuri
 title: Sos mujdei de usturoi
 ingrediente:
   - usturoi (românesc, anti-dracula)

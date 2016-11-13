@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - sosuri
 title: Hrean ras
 ingrediente:
   - hrean

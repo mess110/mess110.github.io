@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - desert
 title: Compot de rabarbăr
 ingrediente:
   - 1kg rabarbăr

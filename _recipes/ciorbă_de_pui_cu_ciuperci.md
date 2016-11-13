@@ -1,5 +1,8 @@
 ---
 layout: recipe
+keywords:
+  - supă
+  - ciorbă
 title: Ciorbă de pui cu ciuperci
 ingrediente:
   - piept de pui

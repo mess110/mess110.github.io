@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Salată totală
 ingrediente:
   - Salată verde - tăiată

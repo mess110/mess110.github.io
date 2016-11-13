@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Ciuperci Asia Style
 ingrediente:
   - ciuperci (king oyster, sau oricare altele)

@@ -1,6 +1,8 @@
 ---
 layout: recipe
-title: Feluri - de brânzaturi românești
+keywords:
+  - feluri
+title: Feluri - brânzaturi românești
 ---
 
 # Brânză de burduf

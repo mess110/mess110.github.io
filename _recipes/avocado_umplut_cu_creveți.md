@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Avocado umplu cu creveti
 ingrediente:
   - avocado

@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Vinete la cuptor
 ingrediente:
   - vinete

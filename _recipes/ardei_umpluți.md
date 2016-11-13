@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Ardei umpluți
 ingrdiente:
   - 2/3 carne porc 1/3 carne vită

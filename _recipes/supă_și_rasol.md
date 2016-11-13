@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - supă
 title: Supă și rasol
 ingrediente:
   - 3-4 bucăți rasol

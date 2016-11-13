@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Carne feliată la cuptor
 ingrediente:
   - carne feliată (de preferat cu grăsime)

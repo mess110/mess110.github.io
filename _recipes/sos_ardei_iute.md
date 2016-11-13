@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - sosuri
 title: Sos ardei iute
 ingrediente:
   - ardei gras

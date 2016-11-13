@@ -1,6 +1,9 @@
 ---
 layout: recipe
+keywords:
+  - mic-dejun
 title: Predominant ou
+avatar: '/images/cookz/kitchen-egg-70px.png'
 ---
 
 # ouă de prepeliță cu icre negre

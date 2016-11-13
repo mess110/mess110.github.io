@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - sosuri
 title: Sos trâmbița piticului
 ingrediente:
   - ciuperci uscate trambita piticului

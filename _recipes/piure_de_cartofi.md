@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - altele
 title: Piure de cartofi
 ingrediente:
   - cartofi

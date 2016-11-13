@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - supă
 title: Supă cremă de cartofi
 ingrediente:
   - cartofi

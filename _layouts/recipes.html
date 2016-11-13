@@ -6,10 +6,60 @@ layout: cookz
   <div class="entry">
     {{ content }}
 
-    <ul>
-    {% for recipe in site.recipes %}
-      <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-    {% endfor %}
-    </ul>
+    <div class="food-menu">
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-egg-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'mic-dejun' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-plate-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'supă' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-stove-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'cuptor' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-knife-spoon-fork-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'altele' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-muffin-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'desert' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+
+      <img src="{{ site.baseurl }}/images/cookz/kitchen-refrigerator-70px.png">
+      <ul>
+        {% for recipe in site.recipes %}
+          {% if recipe.keywords contains 'sosuri' or recipe.keywords contains 'feluri' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+      </ul>
+    </div>
   </div>
 </article>

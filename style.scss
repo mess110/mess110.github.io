@@ -308,3 +308,16 @@ th {
   font-weight: bold;
   background-color: #eee;
 }
+
+.food-menu {
+  text-align: center;
+
+  ul {
+    list-style-type: none;
+    padding-left: 0px;
+  }
+
+  img {
+    padding-top: 50px;
+  }
+}

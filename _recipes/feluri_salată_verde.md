@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - feluri
 title: Feluri - salată verde
 ---
 

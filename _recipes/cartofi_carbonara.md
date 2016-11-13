@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - cuptor
 title: Cartofi carbonara
 ingrediente:
   - cartofi

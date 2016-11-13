@@ -1,8 +1,8 @@
 ---
 layout: recipe
-title: Ardei copt cu salată de vinete
 keywords:
-  - ardei
+  - altele
+title: Ardei copt cu salată de vinete
 ingrediente:
   - ardei capia/gras
   - vinete

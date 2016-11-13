@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - desert
 title: Suc de soc
 ingrediente:
   - flori de soc (10-12)

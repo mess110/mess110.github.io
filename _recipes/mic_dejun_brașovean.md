@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - mic-dejun
 title: Mic dejun brașovean
 ingrediente:
   - ouă (de casă)

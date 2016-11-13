@@ -1,5 +1,7 @@
 ---
 layout: recipe
+keywords:
+  - sosuri
 title: Zahăr vanilat
 ingrediente:
   - zahăr pudră
