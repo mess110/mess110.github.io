@@ -13,7 +13,7 @@ ingrediente:
 mod_de_preparare:
   - curătăm usturoiul și îl pisăm împreuna cu sarea granulată
   - adăugăm treptat ulei, amestecăm
-  - adăugăm treptat zeama de lămâie, amestecăm
+  - adăugăm treptat zeama de lămâie, amestecăm până devine cremos
   - adăugăm puțină apă (opțional)
   - adaugăm pătrunjelul tăiat mărunt
 trivia:

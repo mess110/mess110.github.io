@@ -1,5 +1,6 @@
 ---
 layout: recipe
+feluri: true
 keywords:
   - feluri
 fără-carne: true

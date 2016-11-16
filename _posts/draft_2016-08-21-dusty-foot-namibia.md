@@ -124,7 +124,6 @@ thing is that I might not need it. It was good to have it though. The flag will 
 fly in Namibia. How was the trip? "It was too early and I am too drunk".
 According to Dean: "getting the bag is extazy".
 
-TODO: check spelling of Ruacana
 Next morning, we pack our stuff, put it in the car and go. We are on our way
 to Ruacana in northern Namibia. On the way there, we stopeed by the Damara
 museum. It shows how people used to live in those lands. Problem is, they
@@ -152,3 +151,71 @@ TODO: talk about police.
 You can see storks, cows, donkeys and goats. We saw a road sign: "roadhogs have
 priority". One more police stop. After 17:00, so they just signaled us to
 continue. No fences means we are in comunal lands.
+Himba teritory. You can start seeing ant castles. Huge, right next to the road
+bigger than our cars, bigger than most trees next to the road. You can see ostrices
+roaming free. Now the signs show that people have priority. A sign for Etoto TODO: check name school
+25 km that way.
+20 km away from Ruacana the car pullin the trailer, broke some rubber peace under the
+car. It is more of a prevention stop. We setup tent in a quite nice camp.
+There is a nice kitchen and we had time to do some cleanup while the part we need
+to replace arrived. Svend seemed worries, but now, in the morning it seems
+to be better. It is morning, after breakfest, guys his the gym, my lazy ass is
+chilling here.
+TODO: move this to living fire. With a mupane root stick and a malipera stick
+you can start a fire. Create friction between the two sticks with some donkey shit
+in the middle and boom you have a small fire.
+We voted weather to go an extra day at Etosha or to go jumping in some pools.
+Thomas didn't vote. That is unanimous enough. TIA (This is Africa).
+So we finally got the part. To get the part, we found someone in Oshakati (160km away).
+With some hustling, missed cars and small fuckups, we got the part. Juakali Charles,
+the mechanic which helped us with the part (thank you btw) left. Svend forgot
+his headlamp in the mechanics car. The car was fine though. Now it was settled:
+I had the best headlamp, no doubt about it.
+TODO: this is where Kasper made the custom flag thing
+At night, we left Ruacana. We ended up on a really bad road to camp Okapupa.
+Paul was having a bit too much fun with the walkie talkie and karma was on
+Svend's side this time. Svend was in a hurry, and, despite this, if you dare
+to imagine, the other car stopped so the others can pee. Onwards! Until we
+hear Paul's voice on the walkie talkie saying we need to go back because
+Paul lost his phone. So we turn around, Svend gives the Svend "I told you so"
+and we start looking for the phone. It was really dark, and we couldn't remember
+exactly where we stopped so we start looking for fresh pee marks. The road
+was really thin at the point, 2 cars wouldn't fit side by side in most places.
+As we are about to give up, we look on the tracks and there it was. The phone.
+While we were there, 3 cars passed though the area including us. 3 cars
+went over the phone. Bye bye phone.
+Once we arrived, we setup camp and go fishing.
+We ate orics meat with pasta. The next day, we went white water rafting. "Super
+fun extra chill". Team Denmark won. Kasper and Thais. I fell twice. Had a small dispute
+with Paul, I think he can't row, he probably thinks I can't row.
+TODO: explain washing machine, falling and how we got stuck on the rock. fighting against
+the current doesn't help
+As I told Paul: "Don't worry we not a rowing team, we are a beer drinking team."
+We ate a nice hearderbeast neck. It tasted and looked amazing. Went really well
+with the bread Chris baked. TODO: add picture
+Next morning, was the first morning my face was cold. Had milk and cereal fuck yea.
+Went fishing and I had a few nibbles but nothing serious.
+TODO: explain fishing rules
+Together with Kasper, we managed to make a living fire. Good fucking game + achievement
+unlocked.
+TODO: explain tries
+We met with 3 guys from Israel. They were cool, we talked about army life and vodka.
+Discussed buying and eating a goat.
+We went looking for a fountain with Petrus, one the guys working at the camp.
+He owned the goats and is probably the one who surprise-cleaned our dishes. We
+finally used the 4x4 for what it should be used for. Went crazy deep in the forest.
+There we made burgers from orics meat. Really good. The scenary was amazing,
+you didn't expect such a beutiful oasis to be present in such a remote place.
+The water from around the year gathers in these holes and made the pond we dove in.
+TODO: talk about oasis
+Went back home and had one of the best meals in my life while camping, if not
+the best. Hearderbeast leg steaks with some spinich sauce, bread and potatoes.
+Fried to perfection. Went fishing and then early to bed because we were leaving
+for Etosha at 3:45. FUCK. Woke up, packed, all good.
+TODO: talk about feelings in the morning
+On the way there, we stopped and met Nilton (TODO city name). We had to arrive
+by day break because the part is closed at night. We saw a huge elephant bool chlling and
+cooling off from the heat. Girafes, zebras
+( at the Etosha pond, a stork just flew in and about 29 imapala black faced. Saw
+2 males. They are all drinking from the water. Last night I missed lions)
+( 2 days later, first day at Etosha, Svend finally took a shower. )

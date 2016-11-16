@@ -28,7 +28,7 @@ layout: cookz
       <img src="{{ site.baseurl }}/images/cookz/kitchen-stove-70px.png">
       <ul>
         {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'cuptor' %}
+          {% if recipe.keywords contains 'felul 2' %}
             <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
           {% endif %}
         {% endfor %}
@@ -64,9 +64,12 @@ layout: cookz
 
     <div class="meta-menu">
         <p>
-          {{ site.recipes.size }} rețete
+          {% assign feluri_size = site.recipes | where: "feluri", true | size) %}
+          {{ (site.recipes | size) | minus: feluri_size }} rețete
           <br />
           {{ site.recipes | where: "fără-carne", true | size }} rețete fără carne
+          <br />
+          {{ feluri_size }} rețete informaționale
         </p>
     </div>
   </div>

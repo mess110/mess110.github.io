@@ -1,7 +1,7 @@
 ---
 layout: recipe
 keywords:
-  - cuptor
+  - felul 2
 fără-carne: true
 title: Vinete la cuptor
 ingrediente:

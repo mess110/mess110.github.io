@@ -1,5 +1,4 @@
 ---
 layout: recipe
 keywords:
-  - cuptor
 ---

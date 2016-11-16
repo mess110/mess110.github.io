@@ -9,6 +9,7 @@ ingrediente:
   - 2 cepe normale sau 1 mare
   - 3 morcovi (cei mai mari pe care îi ai)
   - țelină
+  - gulie
   - 1/2 ardei verde 1/2 ardei rosu (sau 1 capia)
   - cartofi
   - suc de roșii (există la cutie și cu puplă de roșii) sau roșii decojite (la conservă)

@@ -1,7 +1,7 @@
 ---
 layout: recipe
 keywords:
-  - cuptor
+  - felul 2
 title: Rață la cuptor
 ingrediente:
   - piept de rața cu piele

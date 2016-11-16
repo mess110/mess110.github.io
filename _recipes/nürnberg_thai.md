@@ -1,7 +1,7 @@
 ---
 layout: recipe
 keywords:
-  - cuptor
+  - felul 2
 title: Nürnberg Thai
 ingrediente:
   - cremă lapte de nucă de cocos

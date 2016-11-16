@@ -1,7 +1,7 @@
 ---
 layout: recipe
 keywords:
-  - cuptor
+  - felul 2
 title: Cartofi carbonara
 ingrediente:
   - cartofi
