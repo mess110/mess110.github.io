@@ -20,7 +20,7 @@ ingrediente:
   - tăietei (optional)
   - ou (optional)
 mod_de_preparare:
-  - intr-o cuctă adaugi apă, toate legumele (phase I) tăiate bucați mari și carnea
+  - intr-o cuctă adaugi apă, toate legumele tăiate bucați mari și carnea
   - lași la fiert cam 1h
   - scoți carnea si câteva legume, servesti cu hrean si marar.
   - in stil thailandez, in zeama rămasă, adaugi tulpini de țelină, sos de soia, ceapă verde și ciuperci tăiate lamele (foc mic)
