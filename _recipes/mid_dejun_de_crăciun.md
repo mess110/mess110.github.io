@@ -2,7 +2,7 @@
 layout: recipe
 keywords:
   - mic-dejun
-title: mic dejun de crăciun
+title: Mic dejun de Crăciun
 ingrediente:
   - cartofi
   - mere
