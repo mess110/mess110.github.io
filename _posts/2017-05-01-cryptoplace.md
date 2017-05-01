@@ -5,7 +5,7 @@ titleUrl: http://northpole.ro/cryptoplace/
 ---
 
 <center>
-  <a href="http://northpole.ro/cryptoplace/"><img src="/images/cryptoplace/cryptoplace.png" /></a>
+  <a href="http://northpole.ro/cryptoplace/"><img src="/blog/images/cryptoplace/cryptoplace.png" /></a>
 </center>
 <center>
   <a href="https://www.reddit.com/r/place">/r/place</a> backed by the Bitcoin blockchain
@@ -22,7 +22,7 @@ change the color of a single pixel on a canvas every 5 minutes. This is what
 came out of it:
 
 <center>
-  <a href="https://www.reddit.com/r/place/"><img src="/images/cryptoplace/wc436nf7fdpy.png" /></a>
+  <a href="https://www.reddit.com/r/place/"><img src="/blog/images/cryptoplace/wc436nf7fdpy.png" /></a>
 </center>
 
 A similar experiment happened in 2005 when a student sold pixels on a canvas to fund
