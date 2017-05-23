@@ -39,7 +39,7 @@ photos.
 
 ## Important
 
-* If you loose coins because of this wallet, it is your fault, it provides
+* If you lose coins because of this wallet, it is your fault, it provides
 no guarantees
 * This is an alternative to CryptoSteel
 * I **DO NOT** recommend this over CryptoSteel
