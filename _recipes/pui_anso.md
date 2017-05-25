@@ -7,6 +7,7 @@ title: Pui Anso
 ingrediente:
   - untură/ulei de măsline
   - piept de pui
+  - roșii-strugure/cherry
   - mozarella
   - usturoi
   - busuioc
