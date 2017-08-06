@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - felul 2
+  - pui
 title: Pui pe sticlă cu bere
 ingrediente:
   - 1 pui

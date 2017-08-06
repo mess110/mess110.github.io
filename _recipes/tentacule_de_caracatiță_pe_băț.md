@@ -13,6 +13,8 @@ ingrediente:
   - pătrunjel
   - lămâie
   - băt (ca pentru frigărui)
+  - oțet balsamic gros (opțional)
+  - verdețuri (opțional)
 mod_de_preparare:
   - curățăm și spălăm caracatițele (interiorul capului și cioc)
   - pune apă la fiert, adaugă lămâie, usturoi tăiat mărunt și frunzele de dafin
@@ -21,6 +23,7 @@ mod_de_preparare:
   - lasă caracatițele la fiert, verifică să nu devină gumoasă cu ajutorul unui cuțit cu vârf ascuțit
   - tăvălește caracatița în pătrunjel
   - prăjește caracatița pe grătar, servește cu lămâie
+  - condimentează cu verdețuri si oțet balsamic
 opțional:
   - cu un ciocan bate caracatița să devină fragedă
 trivia: octo-popsicle
