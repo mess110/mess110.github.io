@@ -6,7 +6,7 @@ title: coinmarketcap json api
 April 2014, the bitcoin hype is real. A nice website [https://coinmarketcap.com/](https://coinmarketcap.com/)
 provides data about a lot of crypto currencies but it doesn't have a JSON API.
 
-This is how [http://coinmarketcap.northpole.ro/](http://coinmarketcap.northpole.ro/) was born.
+This is how [https://coinmarketcap.northpole.ro/](https://coinmarketcap.northpole.ro/) was born.
 
 At the time of writing, the API served over **336 million** requests.
 
@@ -15,14 +15,18 @@ At the time of writing, the API served over **336 million** requests.
 The API is growing because of its simplicity and the fact that I worked only
 on [features requested by the users](https://www.reddit.com/r/coinmarketcapjson/).
 
-As of April 2016, the API also provides [daily snapshots](http://coinmarketcap.northpole.ro/api/v5/history/) (a much requested feature).
+As of April 2016, the API also provides [daily snapshots](https://coinmarketcap.northpole.ro/history.json?coin=bitcoin&period=2016) (a much requested feature).
 
 Example API usage:
 
-[http://coinmarketcap.northpole.ro/api/v5/BTC.json](http://coinmarketcap.northpole.ro/api/v5/BTC.json)
-[http://coinmarketcap.northpole.ro/api/v5/history/BTC_2016.json](http://coinmarketcap.northpole.ro/api/v5/history/BTC_2016.json)
+[https://coinmarketcap.northpole.ro/ticker.json?identifier=bitcoin,dogecoin](https://coinmarketcap.northpole.ro/ticker.json?identifier=bitcoin,dogecoin)
+[https://coinmarketcap.northpole.ro/history.json?coin=bitcoin&period=2016](https://coinmarketcap.northpole.ro/history.json?coin=bitcoin&period=2016)
 
 It is extremely satisfying [to see other people use the API](https://github.com/search?q=coinmarketcap.northpole.ro&type=Code&utf8=%E2%9C%93).
+
+The full documentation can be found [here](https://app.swaggerhub.com/apis/mess110/CoinMarketCap-Json-Api/v8).
+
+HTTPS and CORS enabled.
 
 <script type="text/javascript" charset="utf-8">
   var GRAPH = [{ "x": 1396299600,"y": 3245515},{ "x": 1398891600,"y": 6185346},{ "x": 1401570000,"y": 12274216},{ "x": 1404162000,"y": 6160358},{ "x": 1406840400,"y": 2831308},{ "x": 1409518800,"y": 4267506},{ "x": 1412110800,"y": 3795583},{ "x": 1414792800,"y": 4623107},{ "x": 1417384800,"y": 3495375},{ "x": 1420063200,"y": 15310181},{ "x": 1422741600,"y": 14035313},{ "x": 1425160800,"y": 32372996},{ "x": 1427835600,"y": 27115318},{ "x": 1430427600,"y": 19192559},{ "x": 1433106000,"y": 15534402},{ "x": 1435698000,"y": 15757127},{ "x": 1438376400,"y": 26497918},{ "x": 1441054800,"y": 24020274},{ "x": 1443646800,"y": 19215801},{ "x": 1446328800,"y": 21260041},{ "x": 1448920800,"y": 11599628},{ "x": 1451599200,"y": 20000116},{ "x": 1454277600,"y": 14229074},{ "x": 1456783200,"y": 13634831}];

@@ -1,10 +1,10 @@
 ---
 layout: recipe
-feluri: true
+despre: true
 keywords:
-  - feluri
+  - despre
 fără-carne: true
-title: Feluri - brânzaturi românești
+title: Despre brânzaturi românești
 ---
 
 # Brânză de burduf

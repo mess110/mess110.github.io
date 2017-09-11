@@ -1,8 +1,9 @@
 ---
 layout: recipe
-keywords:
-  - felul 2
 title: Nürnberg Thai
+keywords:
+  - cocos
+  - felul 2
 ingrediente:
   - cremă lapte de nucă de cocos
   - bambus

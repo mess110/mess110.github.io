@@ -1,0 +1,1 @@
+despre sezon

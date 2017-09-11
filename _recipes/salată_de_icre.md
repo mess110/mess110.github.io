@@ -1,9 +1,9 @@
 ---
 layout: recipe
 keywords:
+  - mic-dejun
   - aperitiv
   - icre
-  - mic-dejun
 fără-carne: true
 title: Salată de icre
 ingrediente:

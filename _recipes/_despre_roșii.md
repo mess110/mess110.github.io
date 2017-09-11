@@ -1,5 +1,6 @@
 ---
 layout: recipe
+despre: true
 keywords:
   - altele
 ---

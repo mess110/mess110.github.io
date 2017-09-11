@@ -3,7 +3,7 @@ layout: recipe
 keywords:
   - felul 2
 title: Ardei umpluți
-ingrdiente:
+ingrediente:
   - 2/3 carne porc 1/3 carne vită
   - ardei
   - ceapă

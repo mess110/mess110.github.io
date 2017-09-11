@@ -26,5 +26,5 @@ mod_de_preparare:
 optional:
   - frișcă
   - câpșune/alte fructe
-trivia: Pavlos Bucătarul Grec a scris rețeta în Română
+trivia: Pavlos Bucătarul Grec a scris rețeta în română
 ---

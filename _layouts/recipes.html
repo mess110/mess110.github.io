@@ -55,7 +55,13 @@ layout: cookz
       <img src="{{ site.baseurl }}/images/cookz/kitchen-refrigerator-70px.png">
       <ul>
         {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'sosuri' or recipe.keywords contains 'feluri' %}
+          {% if recipe.keywords contains 'sosuri' %}
+            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+          {% endif %}
+        {% endfor %}
+        <br />
+        {% for recipe in site.recipes %}
+          {% if recipe.despre == true %}
             <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
           {% endif %}
         {% endfor %}
@@ -64,12 +70,12 @@ layout: cookz
 
     <div class="meta-menu">
         <p>
-          {% assign feluri_size = site.recipes | where: "feluri", true | size) %}
-          {{ (site.recipes | size) | minus: feluri_size }} rețete
+          {% assign despre_size = site.recipes | where: "despre", true | size) %}
+          {{ (site.recipes | size) | minus: despre_size }} rețete
           <br />
           {{ site.recipes | where: "fără-carne", true | size }} rețete fără carne
           <br />
-          {{ feluri_size }} rețete informaționale
+          {{ despre_size }} rețete informaționale
         </p>
     </div>
   </div>
