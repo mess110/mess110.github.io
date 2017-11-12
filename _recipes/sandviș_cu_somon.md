@@ -1,7 +1,7 @@
 ---
 layout: recipe
 keywords:
-  - felul 2
+  - altele
   - pește
   - somon
 title: Sandviș cu somon
