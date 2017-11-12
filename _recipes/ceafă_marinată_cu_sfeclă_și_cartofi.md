@@ -18,5 +18,6 @@ mod_de_preparare:
   - pe fiecare felie de carne pune puțină untură și o ceapă tăiată în jumătate
   - curătă, spală și taie sfecla și cartofii
   - așează totul în tavă si condimentează după gust
+  - acoperă cu staniol găurit
 trivia: #yummy #ce #mai #vrei
 ---
