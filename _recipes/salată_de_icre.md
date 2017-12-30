@@ -26,5 +26,6 @@ mod_de_preparare:
   - adaugă pătrunjel peste
 optional:
   - când ești gata, adauga câteva icre de somon și amestecă cu o lingură fără să le spargi
+  - dacă icrele sunt prea sărate, le poți desăra în lapte
 trivia: prinzi un pește, surpriză are icre. faci salată
 ---
