@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - felul 2
+fără-carne: true
 title: Paste cu spanac și roșii
 ingrediente:
   - 1.5l lapte
