@@ -1,6 +1,7 @@
 ---
 layout: recipe
 keywords:
+  - mic-dejun
   - aperitiv
   - pește
   - știucă

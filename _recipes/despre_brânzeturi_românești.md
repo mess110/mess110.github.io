@@ -4,7 +4,7 @@ despre: true
 keywords:
   - despre
 fără-carne: true
-title: Despre brânzaturi românești
+title: Despre brânzeturi românești
 ---
 
 # Brânză de burduf

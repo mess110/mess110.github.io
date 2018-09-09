@@ -15,7 +15,7 @@ ingrediente:
   - pastă de roșii
   - pastă de ardei/ardei gras
 mod_de_preparare:
-  - taie costița în bucăți individuale și prăjește-le pe toate părțile în ulei, până lasă grăsime apoi se scot pe o farfurie
+  - taie costița în bucăți individuale (între oase) și prăjește-le pe toate părțile în ulei până lasă grăsime; se scot pe o farfurie
   - curătă și taie ceapa și ardeiul, zdrobește usturoiul
   - pune ceapa, ardeiul și usturoiul la călit
   - scoate de pe foc, adaugă paprika, piper, frunza de dafin și se amestecă bine

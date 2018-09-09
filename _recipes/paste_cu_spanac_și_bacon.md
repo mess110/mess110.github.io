@@ -31,6 +31,5 @@ mod_de_preparare:
   - adaugă busuioc
 hints:
   - fără sare
-  - poți prepara 
 trivia: caaaabrooon
 ---
