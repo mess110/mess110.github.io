@@ -15,8 +15,7 @@ mod_de_preparare:
   - pune un strat de zmeură, unul de zahăr intr-un borcan de sticlă
   - acopera cu tifon și lasă la temperatura camerei timp de 7 zile
   - amestecă în fiecare zi
-  - adaugă alcoolul, închide ermetic cu un capac și păstrează la loc răcoros timp
-de 2-3 luni
+  - adaugă alcoolul, închide ermetic cu un capac și păstrează la loc răcoros timp de 2-3 luni
 optional:
   - după ce ai pus alcoolul, lasă 2h la măcerat apoi strecoară fructele
 trivia: jelesdronk by christmas
