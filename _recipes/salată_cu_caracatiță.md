@@ -15,7 +15,7 @@ mod_de_preparare:
   - se taie legumele mărunt
   - amestecă împreună cu caracatița tăiată mărunt după ce ai făcut rețeta 'Pui de caracatiță'
   - adaugă puțin ulei de măsline
-opțional:
+optional:
   - tzatziki sau brânză feta
 trivia: tzatziki
 ---

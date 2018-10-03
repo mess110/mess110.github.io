@@ -24,7 +24,7 @@ mod_de_preparare:
   - tăvălește caracatița în pătrunjel
   - prăjește caracatița pe grătar, servește cu lămâie
   - condimentează cu verdețuri si oțet balsamic
-opțional:
+optional:
   - cu un ciocan bate caracatița să devină fragedă
 trivia: octo-popsicle
 ---

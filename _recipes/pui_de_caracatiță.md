@@ -20,7 +20,7 @@ mod_de_preparare:
   - lasă caracatițele la fiert, verifică să nu devină gumoasă cu ajutorul unui cuțit cu vârf ascuțit
   - topește unt într-o tigaie și prăjește caracatițele cu oregano
   - pune caracatițele într-o farfurie adugă pătrunjel și lămâie
-opțional:
+optional:
   - cu un ciocan bate caracatița să devină fragedă
 trivia: merge (cu cele 8 piciorușe) și pe grătar
 ---

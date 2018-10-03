@@ -24,7 +24,7 @@ mod_de_preparare:
   - se introduce sticla de bere în pui și se așează în picioare
   - 'punem tava cu tot cu pui la cuptor (aprox 1h)'
   - se taie ceapa și pătrunjelul mărunt, se presară peste pui și mai lăsăm 10 minute la cuptor
-opțional:
+optional:
   - unge puiul cu miere când presari cu ceapă si pătrunjel
 trivia: delicatesă încercată în satul Gurgu, România
 ---

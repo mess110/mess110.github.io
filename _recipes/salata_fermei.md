@@ -15,7 +15,7 @@ mod_de_preparare:
   - un strat de ou
   - maioneză și smântână
   - presărează cu pătrunjel
-opțional:
+optional:
   - răzătoare
 trivia: recomandat de străbunii doctori moțești
 ---

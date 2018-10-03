@@ -20,6 +20,6 @@ mod_de_preparare:
   - castravetele se curăță, se dă prin răzătoare și se stoarce de apă
   - amestecă sosul, castravetle și mărarul
 trivia: Vampirii greci nu au nici o șansă
-opțional:
+optional:
   - puțin iaurt
 ---
