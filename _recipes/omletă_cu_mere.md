@@ -13,7 +13,10 @@ ingrediente:
 mod_de_preparare:
   - prăjește șunca tăiată cubulețe în ulei
   - bate ouăle, adaugă sare, piper, ardei iute și mărar
-  - taie cașcavalul cubulețe
+  - taie cașcavalul și merele cubulețe
+  - bate ouăle, adaugă sare, piper, ardei iute și mărar
   - pune toate ingredientele într-o tigaie încinsă
+optional:
+  - prăjește merele cu șunca (pentru caramelizare)
 trivia: fără oțet de mere
 ---
