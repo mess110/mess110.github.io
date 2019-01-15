@@ -11,6 +11,7 @@ description: '# here be dragoons'
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/jekyll-logo.png
 cookzAvatar: /images/cookz/kitchen-knife-spoon-fork-70px.png
+shotoAvatar: /images/shoto/Shotokan_japanese.svg
 
 #
 # Flags below are optional
@@ -63,6 +64,10 @@ collections:
   recipes:
     output: true
     permalink: /cookz/recipes/:path/
+    layout: recipe
+  shoto:
+    output: true
+    permalink: /shoto/:path/
     layout: recipe
 
 # Jekyll 3 now only supports Kramdown for Markdown

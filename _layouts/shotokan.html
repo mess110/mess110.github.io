@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ page.trivia }}</title>
+
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+
+    <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+  </head>
+
+  <body>
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="masthead clearfix">
+          <a href="{{ site.baseurl }}/shoto/index" class="site-avatar" style="text-align: center"><img style="height: 100%" src="{{ site.baseurl}}{{ site.shotoAvatar }}" /></a>
+
+          <div class="site-info">
+            <h1 class="site-name"><a href="{{ site.baseurl }}/shoto/index">{{ page.title }}</a></h1>
+            <p class="site-description">{{ page.trivia }}</p>
+          </div>
+      </div>
+    </div>
+
+    <div id="main" role="main" class="container" style="margin-bottom: 30px;">
+      {{ content }}
+    </div>
+
+    <div class="wrapper-masthead">
+      <div class="container">
+        <header class="clearfix" style="text-align: center">
+          <nav style="width: 100%">
+            <!-- <a href="{{ site.baseurl }}/"><i class="svg-icon blog"></i></a> -->
+            <!-- <a href="https://www.twitter.com/{{ site.footer-links.twitter }}"><i class="svg-icon twitter"></i></a> -->
+          </nav>
+        </header>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>
