@@ -11,8 +11,8 @@ ingrediente:
   - 3 morcovi (cei mai mari pe care îi ai)
   - pătrunjel
   - țelină cat un pumn al Cezarei sau al meu sau 3 tulpini
-  - 1/2 ardei verde 1/2 ardei rosu (sau 1 capia)
-  - suc de rosii (există la cutie și cu puplă de roșii) sau roșii decojite (la conservă)
+  - 1/2 ardei verde 1/2 ardei roșu (sau 1 capia)
+  - suc de roșii (există la cutie și cu puplă de roșii) sau roșii decojite (la conservă)
   - cârnați (opțional)
 mod_de_preparare:
   - fasolea se spală și se pune cu apă mai multă că se unfla, de seara până dimineața
@@ -25,5 +25,5 @@ mod_de_preparare:
   - Cam in același timp se termină și fasolea (gusti un bob) pe care cu apă cu tot o torni peste legumele din oala
   - completezi cu apă daca mai trebuie, tai niste cârnați uscat bucățele (ca pentru prajit) și le arunci in oală - dacă vrei
   - Condimentezi inclusiv cimbru și lași totul să dea in clocot cateva minute, gusti și este GATA.
-trivia: 'reteta mamei: POFTA BUNA si PUSIIIIIIIIIIII'
+trivia: reteta mamei: POFTA BUNA si PUSIIIIIIIIIIII
 ---

@@ -10,7 +10,7 @@ ingrediente:
   - 2 lămâi
   - apă
 mod_de_preparare:
-  - <a href="../despre_borcane_sterilizate">sterilizează borcanele</a>
+  - sterilizează borcanele
   - într-un vas pune un strat de fructe, un strat de zahăr etc.
   - termină cu un strat de zahăr
   - lasă zahărul să extragă zeamă din fructe timp de 2-3 ore

@@ -2,6 +2,14 @@
 layout: recipe
 keywords:
   - mic-dejun
+  - suflee
+  - ou
+  - spanac
+  - cuptor
+  - lapte
+  - parmezan
+  - brânză
+  - branza
 fără-carne: true
 title: Suflu cu spanac
 ingrediente:

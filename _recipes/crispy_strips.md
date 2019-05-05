@@ -17,7 +17,7 @@ ingrediente:
 mod_de_preparare:
   - tocăm mărunt ceapa, usturoiul, și amestecăm cu 2-3 linguri de ulei, zeamă de lămâie, sare, piper și boia
   - zdrobim fulgii de porumb și îi adăugăm in mix
-  - pregătim recipiente cu: făină, ou, mixul nostru
+  - pregătim recipiente cu făină, ou, mixul nostru
   - trecem pe rând fiecare bucată de pui prin recipiente
   - încinge uleiul și prăjim puiul în mai multe ture
   - puiul trebuie sa plutească în ulei, nu să atingă fundul tigăii

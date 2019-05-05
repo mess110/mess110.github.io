@@ -8,7 +8,6 @@ ingrediente:
   - slănină
   - brânză de burduf
   - piper
-  - rețetă: Piure de cartofi
 mod_de_preparare:
   - taie felii de burduf peste piure și pune piper
   - încălzește o tigaie

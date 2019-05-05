@@ -12,7 +12,7 @@ ingrediente:
   - mărar
   - untură (opțional)
 mod_de_preparare:
-  - fă <a href="../mujdei_de_usturoi">mujdei de usturoi</a>
+  - fă mujdei de usturoi
   - spală bine bibanul
   - taie în interior de-a lungul, pe ambele părți ale coloanei vertebrale
   - adaugă sare/piper/lămâie pe interiorul peștelui

@@ -3,83 +3,117 @@ layout: cookz
 ---
 
 <article class="page">
-  <div class="entry">
-    {{ content }}
+    <div class="entry">
+        {{ content }}
 
-    <div class="food-menu">
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-egg-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'mic-dejun' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+        <div class="food-filter">
+            <h4>Căutare</h4>
+            <input type="text" />
+        </div>
 
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-plate-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'supă' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+        <div class="food-menu">
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-egg-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'mic-dejun' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-stove-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'felul 2' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-plate-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'supă' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-knife-spoon-fork-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'altele' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-stove-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'felul 2' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-muffin-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'desert' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-knife-spoon-fork-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'altele' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
 
-      <img src="{{ site.baseurl }}/images/cookz/kitchen-refrigerator-70px.png">
-      <ul>
-        {% for recipe in site.recipes %}
-          {% if recipe.keywords contains 'sosuri' %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-        <br />
-        {% for recipe in site.recipes %}
-          {% if recipe.despre == true %}
-            <li><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
-          {% endif %}
-        {% endfor %}
-      </ul>
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-muffin-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'desert' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+
+            <img src="{{ site.baseurl }}/images/cookz/kitchen-refrigerator-70px.png">
+            <ul>
+                {% for recipe in site.recipes %}
+                {% if recipe.keywords contains 'sosuri' %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+                <br />
+                {% for recipe in site.recipes %}
+                {% if recipe.despre == true %}
+                <li data-search="{{ recipe.keywords }}{{ recipe.title }}{{ recipe.ingrediente }}{{ recipe.mod_de_preparare }}"><a href="{{ site.baseurl }}{{ recipe.url }}">{{ recipe.title }}</a></li>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </div>
+
+        <div class="meta-menu">
+            <p>
+                {% assign despre_size = site.recipes | where: "despre", true | size %}
+                {{ site.recipes | size | minus: despre_size }} rețete
+                <br />
+                {{ site.recipes | where: "fără-carne", true | size }} rețete fără carne
+                <br />
+                {{ despre_size }} rețete informaționale
+            </p>
+        </div>
+        <div class="meta-menu">
+            <p><i>btw, ms pt cartea de bucate. am testat o omleta cu banane, super gustoasa</i> - Mire</p>
+        </div>
     </div>
-
-    <div class="meta-menu">
-        <p>
-          {% assign despre_size = site.recipes | where: "despre", true | size %}
-          {{ site.recipes | size | minus: despre_size }} rețete
-          <br />
-          {{ site.recipes | where: "fără-carne", true | size }} rețete fără carne
-          <br />
-          {{ despre_size }} rețete informaționale
-        </p>
-    </div>
-    <div class="meta-menu">
-        <p><i>btw, ms pt cartea de bucate. am testat o omleta cu banane, super gustoasa</i> - Mire</p>
-    </div>
-  </div>
 </article>
+
+<script charset="utf-8">
+    let foodFilter = document.querySelector('.food-filter')
+    let input = foodFilter.querySelector('input')
+    const lis = document.querySelectorAll('.entry li')
+
+    foodFilter.addEventListener("input", function(event) {
+        let value = input.value
+        lis.forEach((li) => {
+            if (value === "" || value === undefined || value === null) {
+                li.style.display = ''
+            } else {
+                value = value.toLowerCase()
+                value = value.normalize('NFKD').replace(/[^\w]/g, '')
+
+                let keywords = li.getAttribute('data-search')
+                if (keywords !== undefined) {
+                    keywords = keywords.toLowerCase()
+                    keywords = keywords.normalize('NFKD').replace(/[^\w]/g, '')
+                    if (keywords.indexOf(value) !== -1) {
+                        li.style.display = ''
+                    } else {
+                        li.style.display = 'none'
+                    }
+                }
+            }
+        })
+    });
+</script>

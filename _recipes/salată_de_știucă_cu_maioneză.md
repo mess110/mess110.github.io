@@ -17,8 +17,8 @@ mod_de_preparare:
   - pune apă la fiert cu boabe mari de piper, sare și lămâie
   - când dă în clocot, pune știuca timp de 15 minute
   - scoate știuca și separă carnea de oase (inclusiv cele mici)
-  - fă <a href="../mujdei_de_usturoi">mujdei de usturoi</a>
-  - fă <a href="../maioneză">maioneză</a>
+  - fă mujdei de usturoi
+  - fă maioneză
   - amestecă știuca cu cele 2 sosuri
   - adaugă pătrunjel
 trivia: Știu că știi că știuca știe

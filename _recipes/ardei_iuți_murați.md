@@ -11,7 +11,7 @@ ingrediente:
   - ceapă
   - oțet
 mod_de_preparare:
-  - <a href="../despre_borcane_sterilizate">sterilizează borcanele</a>
+  - sterilizează borcanele
   - spală ardeii de mai multe ori și curăță ceapa
   - înghesuie bine in borcan legumele
   - umple borcanul cu apă apoi scurge apa într-un recipient
