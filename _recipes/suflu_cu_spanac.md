@@ -14,7 +14,7 @@ fără-carne: true
 title: Suflu cu spanac
 ingrediente:
   - spanac proaspăt 200g
-  - parmezan ras 200g
+  - parmezan ras 100g
   - lapte 500g
   - 5 ouă
   - nucșoară măcinată
