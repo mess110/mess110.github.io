@@ -32,3 +32,10 @@ Add text and animate it with keyframes.
 
 Added intro/outro images, searched for royalty free music and uploaded
 the whole thing to youtube.
+
+TODO for the future:
+
+* credit music author in the video as well
+* credits logo smaller so it can be covered by youtube subcribe button
+* intro scene to get people hooked on watching, for example a few
+seconds of high quality footage (sort of like clickbait)
