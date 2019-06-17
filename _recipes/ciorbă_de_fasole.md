@@ -25,5 +25,5 @@ mod_de_preparare:
   - Cam in același timp se termină și fasolea (gusti un bob) pe care cu apă cu tot o torni peste legumele din oala
   - completezi cu apă daca mai trebuie, tai niste cârnați uscat bucățele (ca pentru prajit) și le arunci in oală - dacă vrei
   - Condimentezi inclusiv cimbru și lași totul să dea in clocot cateva minute, gusti și este GATA.
-trivia: reteta mamei: POFTA BUNA si PUSIIIIIIIIIIII
+trivia: reteta mamei - POFTA BUNA si PUSIIIIIIIIIIII
 ---
