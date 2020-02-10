@@ -24,9 +24,9 @@ It splits blender render jobs to each CPU core you have.
 Another cool blender addon I used is [power sequences](https://github.com/GDquest/Blender-power-sequencer),
 mostly for fade effects, but it can do much more.
 
-Color correction for strips. Fiddle with the options a bit, use the eye
-icon to inspect differences. Make sure you check different frames
-of the video. Histogram helps, try to get a nice bell curve.
+Color correction modifier for strips. Fiddle with the options a bit,
+use the eye icon to inspect differences. Make sure you check different
+frames of the video. Histogram helps, try to get a nice bell curve.
 
 Add text and animate it with keyframes.
 
@@ -39,3 +39,13 @@ TODO for the future:
 * credits logo smaller so it can be covered by youtube subcribe button
 * intro scene to get people hooked on watching, for example a few
 seconds of high quality footage (sort of like clickbait)
+* swoosh sound effect during transitions
+* b-roll 4 seconds stable smooth motion in one direction
+* text location not overlap youtube progress bar
+
+## Cheatsheet
+
+```
+docker run -v $(pwd):/data jareware/ffmpeg -i input.mp4 -vf vidstabdetect out.mp4
+docker run -v $(pwd):/data jareware/ffmpeg -i input.mp4 -vf vidstabtransform -y out.mp4
+```
