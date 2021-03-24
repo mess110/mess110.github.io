@@ -211,7 +211,7 @@ are important. Keep your word and always be fair. Don't be affraid to delegate a
 There are many things I likely forgot. Its probably better, I need to sleep. The overall fondness of WoW Classic
 will stay in my memory.
 
-Special thanks to Clare. My only regret is classic is we didn't clear Naxx together. But it has
+Special thanks to Clare. My only regret in classic is we didn't clear Naxx together. But it has
 to be bitter. For it to be sweet.
 
 <center>
