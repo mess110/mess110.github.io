@@ -45,7 +45,6 @@ convinved the seller to sell it to me when I told him the guild put effort
 in getting me that blade. I thank him, and especially thank the guild for that
 effort.
 
-
 We found a guild who wanted to merge with us as their guild leader wanted to quit
 classic. They were IRL friends and some were extremely good at the game. But too
 item greedy. Had people afking bosses then complaining about loot, a hunter kicking people
@@ -119,7 +118,8 @@ get a chance to talk with them, they started behaving like apes. A smear campaig
 was made against me, started swearing and being aggresive on general chat. Screenshots
 were sent around. I wasn't going back and due to all the swearing, bad manners and
 streight out lies when I left, I decided not to send any of the transmutes and arcanite
-bars back. They even deleted the good bye message I posted in their discord
+bars back. I didn't even get the chance to speak to them and they started swearing
+and BMing in general chat. They even deleted the good bye message I posted in their discord
 to make me look bad, where I explained my reasons for leaving. It was not a welcoming
 place. They disbanded soon after, as they were way too greedy to keep players in the
 guild.
@@ -134,6 +134,12 @@ Then Alliance started griefing world bosses so it would be hard for horde to gai
 in the end a bunch Horde managed to do it in the last day, thus defeating the alliance.
 We even had a warlock with Thunderfury and Scarab Lord on the server. Yes, Warlock
 is not a typo. The "famous" line was "No wareffort no scarab lord" by the guild master of Praxis.
+
+Trauma and Grandmama also are worth a mention, was really nice to have someone terorise
+Orgrimar mage portal. Got back at them several times, the whole server did. With Tombstone
+and a few others, we raided Stormwind. Coordiation was good. We were summoned
+somewhere hidden, went to the tram, held it, attempted to kill the king, failed, regrouped
+at portal area for some last few kills.
 
 <center>
   <iframe width="560" height="315" src="https://www.youtube.com/embed/MD_YrXmP7GA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -169,6 +175,12 @@ expecting not to play anymore.
 So I attuned my mage, started looking for a guild who wanted a
 mage PuG. Found Glow. They were very coordinated, good shot calling tank. I joined their
 raids together with Kliq and Nail. We farmed frost resist. We cleared Naxx. On the last try of the night.
+Killing KelThuzad was liberating. More than one year of work towards this goal. Thunderfury. Dead Zeppelin.
+
+Freedom.
+
+PvP was also nice, ambush vanish ambush for instant cloth kills. Warrior in AV with a healer for insane
+push. Mage Poly Pyro PoM Pyro. The goodness.
 
 <center>
   <img src="/blog/images/wow-classic/durance-of-hate.png" />
@@ -195,6 +207,9 @@ So what did I learn from this? Absolutely nothing. All of this happened during t
 to do so much. Right when the guild was formed I got married. Right when classic ended for me, I became a
 father. Things lined up amazingly, I consider myself super lucky. The people around you, in game and IRL
 are important. Keep your word and always be fair. Don't be affraid to delegate and start early.
+
+There are many things I likely forgot. Its probably better, I need to sleep. The overall fondness of WoW Classic
+will stay in my memory.
 
 Special thanks to Clare. My only regret is classic is we didn't clear Naxx together. But it has
 to be bitter. For it to be sweet.
