@@ -1,6 +1,6 @@
 ---
 layout: post
-title: wow classic
+title: pandemie covid
 ---
 
 To write
