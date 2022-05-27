@@ -2,6 +2,7 @@
 layout: recipe
 keywords:
   - desert
+  - gem
 fără-carne: true
 title: Dulceață
 ingrediente:
